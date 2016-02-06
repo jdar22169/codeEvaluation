@@ -1,0 +1,78 @@
+body {
+	background-color: black;
+	color: white;}
+
+h1{ 
+	text-align: center;}
+
+h2 {
+	text-align: center;}
+
+div{
+	width: 150px;
+	height:25px;
+	text-align: center;
+	padding-left: 575px;
+	margin-bottom: 100px;}
+
+input {
+	font-size: 15px;}
+
+button {
+	margin-top: 10px;
+	font-size: 15px;
+	width:200px;}
+
+b {
+	font-size: 25px;
+	text-align: center;}
+
+p {
+	text-align: center;
+	font-size: 20px;
+	color: red;
+	display:none;}
+
+#cat{
+	color: green;}
+
+span:hover {
+	font-style: italic;
+	font-size: 30px;}
+
+#bigTwo {
+	color:green;}
+
+#tigerTwo {
+	color:green;
+	font-size: 30px;
+	display:none;}
+
+#charity {
+	text-decoration: underline;}
+
+a:hover {
+	font-size: 35px;}
+
+a:visited {
+	color: orange;}
+
+#tigerPic {
+	width: 100px;
+	float: left;
+	margin-left: 575px;
+	display:none;}
+
+#tigerBPic {
+	width: 100px;
+	float: left;
+	margin-left: 10px;
+	display:none;}
+
+#incorrect {
+    width: 600px;
+   	margin-left: -200px;
+    margin-top: 150px;}​
+
+
+
